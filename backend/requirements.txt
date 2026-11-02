@@ -1,0 +1,14 @@
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+pydantic==2.10.3
+pydantic-settings==2.6.1
+sqlalchemy[asyncio]==2.0.36
+asyncpg==0.30.0
+alembic==1.14.0
+redis==5.2.1
+miniopy-async==1.21.1
+aiogram==3.15.0
+python-jose[cryptography]==3.3.0
+python-multipart==0.0.19
+orjson==3.10.12
+Pillow==11.0.0

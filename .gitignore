@@ -1,0 +1,23 @@
+# Секреты и локальные файлы
+.env
+*.jks
+*.keystore
+local.properties
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Android / Gradle
+.gradle/
+build/
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Данные docker-томов
+data/
